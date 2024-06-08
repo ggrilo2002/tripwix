@@ -1,0 +1,8 @@
+[client]
+showSidebarNavigation=false
+
+[server]
+maxUploadSize = 4096
+
+[theme]
+base = "dark"
